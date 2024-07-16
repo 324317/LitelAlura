@@ -1,7 +1,5 @@
 ### Literarum
 
-![Emblema](https://github.com/vitor-fidelis/literarum/blob/main/imagens/emblema.png)
-
 Literarum é uma aplicação web dedicada aos amantes da leitura. Com ela, você pode explorar uma vasta coleção de livros, descobrir novos autores e explorar temas fascinantes.
 
 #### Recursos Principais
@@ -28,7 +26,7 @@ Literarum é uma aplicação web dedicada aos amantes da leitura. Com ela, você
 - Banco de Dados PostgreSQL
 
 **Instalação**
-1. Clone o repositório: `git clone https://github.com/seu-usuario/literarum.git`
+1. Clone o repositório: `git clone https://github.com/324317/LitelAlura.git`
 2. Configure o banco de dados no arquivo `application.properties`.
 3. Execute o projeto: `mvn spring-boot:run`
 
